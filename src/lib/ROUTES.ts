@@ -34,7 +34,7 @@ const ACTIONS = {
  * LINKS
  */
 const LINKS = {
-  
+  "developer": `https://jhenbert.pro`
 }
 
 type ParamValue = string | number | undefined
@@ -140,6 +140,6 @@ export type KIT_ROUTES = {
   PAGES: { '/': never, '/[slug]': 'slug', '/about': never }
   SERVERS: { 'GET /api/notes': never }
   ACTIONS: Record<string, never>
-  LINKS: Record<string, never>
+  LINKS: { 'developer': never }
   Params: { slug: never }
 }

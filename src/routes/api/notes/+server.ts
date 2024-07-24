@@ -16,6 +16,7 @@ const getNotes = async () => {
 		}
 	}
 
+	// sort from oldest to newest
 	notes = notes.sort(
 		(first, second) => new Date(first.date).getTime() - new Date(second.date).getTime()
 	);
