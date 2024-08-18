@@ -1,7 +1,9 @@
 <script lang="ts">
-	import { Footer, MainNav } from '$lib/components';
+	import { ArrowUp, Footer, MainNav } from '$lib/components';
 	import '../app.postcss';
 </script>
+
+<ArrowUp />
 
 <MainNav />
 <slot />

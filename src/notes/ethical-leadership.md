@@ -88,9 +88,9 @@ Social Responsibility - refers to the ethical obligation of individuals, organiz
 
 1. **Diagnosing the Situation** - carefully asses the current situation, analyzing between technical challenges and adaptive challenges.
 
-_Technical Challenges_ - problems with known solutions.
+   _Technical Challenges_ - problems with known solutions.
 
-_Adaptive Challenges_ - problems require new approach and change of mindset.
+   _Adaptive Challenges_ - problems require new approach and change of mindset.
 
 2. **Challenging the Status Quo** - challenge existing norms, assumptions, and ways of thinking, encouraging others to confront difficulties, realities, and consider new perspectives.
 
@@ -146,9 +146,9 @@ _Leadership_ - is about making others better as a result of your presence and ma
 
 9. _Ethical Perspective_ - strategic leaders operate with integrity and ethical principles, considering the broader societal impact of their decisions and actions. They make decisions that are consistent with the organization's values and ethical standards.
 
-```bash
-integrity = honor + honesty
-```
+   ```bash
+   integrity = honor + honesty
+   ```
 
 10. _Global Perspective_ -
 

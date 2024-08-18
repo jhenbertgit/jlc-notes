@@ -108,3 +108,87 @@ Battered Woman Syndrome (BWS) - not liable if the woman kill or act violence aga
 ```bash
     Brgy. Protection Order (15 days) -> Temporary Protection Order (30 days) -> Permanent Protection Order
 ```
+
+## RA 7610 (Anti-Child Abuse Law)
+
+### Children
+
+- Below 18 years old
+
+- Over 18 years old but are unable to fully take care of themselves or protect themselves from abuse
+
+Child Abuse - degrade dignity of a child as human
+
+- debase/dignity the intrinsic worth and dignity of a child as a human
+
+- physical and physical abuse, neglect cruelty, sexual abuse and emotional maltreatment
+
+- unreasonable deprivation of his basic needs for survival, such as food and shelter, or
+
+- failure to immediately give medical treatment to an injured child resulting in serious impairment of his growth and development or his permanent disabilities or death
+
+⚠️Note: habitual is not element
+
+criminal law - territoriality principle
+
+_surrogate mother_ is not allowed in Philippines -- penalized as child trafficking
+
+child trafficking - with monetary involved
+
+## RA 10591
+
+- comes to firearms in Philippines is just a privilege
+
+- extreme situation -- firearms no need as evidence
+
+## RA 11766 (FAs license)
+
+- _inherent in another crime_ -- used unlicensed FAs in murder or homicide will be considered aggravating circumstances
+
+⚠️Note: In **Threat** will not be _inherent_ because anyone can commit a threat without the use of FAs.
+
+**Coup d'état** - FAs is _inherent_
+
+Law requires is merely possession, not only actual possession but also _constructive possession_ -- one's control and management
+
+valid arrest - no need for search warrant -- can conduct warrantless search and seizure
+
+initial violation that would led to arrest
+
+motor vehicle an extension of one's house for purpose of FAs law -- **no**, except if the vehicle is parked in premises of house
+
+residence - immovable property -- abode
+
+## RA 7438
+
+An Act Defining Arrested Detained or Under Custodial Investigation
+
+- If police is involve -- must have Miranda rights
+
+- If not police -- Miranda rights is not needed
+
+⚠️Note: confession from media, mayor -- valid as evidence because not from police questioning
+
+The waiver under Art. 125, RPC - should be in _writing_ and _signed_ by such person in the _presence of his counsel_ otherwise the waiver will be null and void.
+
+**Extra Judicial Confession** - must assisted by the counsel -- Sec 3, Rule 133, Rules of Court
+
+- not enough to convict a suspect with corroborative evidence
+
+Stop and Frisk - Terry Rule (US jurisprudence)
+
+corpus delicti - body of crime
+
+## Anti Terrorism Act of 2020
+
+- fix the weakness of Human Security Act of 2007
+
+Detention without judicial intervention/warrant 14 days + 10 days
+
+- need notification to court, if not penalized 10 years imprisonment
+
+court - proscription of terrorist organizations
+
+non-bailable - _bail_ as a matter of discretion
+
+if bailed -- house arrest

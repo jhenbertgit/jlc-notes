@@ -14,3 +14,21 @@ type Note = {
 	date: string;
 	slug: string;
 };
+
+type Exam = {
+	module: string;
+	subject: string;
+	date: string;
+	slug: string;
+};
+
+type ExamDetails = {
+	subject: string;
+	date: string;
+	slug: string;
+};
+
+type ExamMod = {
+	module: string;
+	details: ExamDetails[];
+};

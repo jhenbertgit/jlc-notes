@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { route } from '$lib/ROUTES';
 	import type { PageData } from './$types';
 	import dateFormatter from '@jhenbert/date-formatter';
 
@@ -13,15 +14,20 @@
 
 <div class="max-w-7xl mx-auto px-4 mb-8 sm:px-6 lg:px-8">
 	<div class="max-w-3xl mx-auto min-h-screen">
-		<!-- Note header -->
-		<div class="py-8">
+		<!--breadcrumb-->
+		<ol class="breadcrumb py-4">
+			<li class="crumb"><a class="anchor" href={route('/')}>Home</a></li>
+		</ol>
+
+		<!-- header -->
+		<div class="pb-8">
 			<p class="text-tertiary-500">Professor: <span>{data.meta.professor}</span></p>
 			<p class="text-tertiary-500 text-sm">Date Lectured: <span>{date}</span></p>
 		</div>
 
-		<!-- Note content -->
+		<!-- content -->
 		<div
-			class="prose prose-sm sm:prose lg:prose-lg xl:prose-xl mx-auto prose-h1:text-primary-50 prose-h2:text-primary-50 prose-h3:text-primary-50 prose-strong:text-primary-50"
+			class="prose prose-sm sm:prose lg:prose-lg xl:prose-xl mx-auto prose-h1:text-primary-50 prose-h2:text-surface-100 prose-h3:text-surface-100 prose-strong:text-surface-100"
 		>
 			<svelte:component this={data.content} />
 		</div>

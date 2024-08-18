@@ -3,11 +3,11 @@ import type { PageLoad } from './$types';
 
 export const load = (async ({ params }) => {
 	try {
-		const note = await import(`../../notes/${params.slug}.md`);
+		const exam = await import(`../../../exams/${params.slug}.md`);
 
 		return {
-			content: note.default,
-			meta: note.metadata
+			content: exam.default,
+			meta: exam.metadata
 		};
 	} catch (e) {
 		console.error(e);

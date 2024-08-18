@@ -10,16 +10,20 @@
  */
 const PAGES = {
   "/": `/`,
-  "/[slug]": (params: { slug: (string | number) }) => {
-    return `/${params.slug}`
+  "/about": `/about`,
+  "/exam/[slug]": (params: { slug: (string | number) }) => {
+    return `/exam/${params.slug}`
   },
-  "/about": `/about`
+  "/note/[slug]": (params: { slug: (string | number) }) => {
+    return `/note/${params.slug}`
+  }
 }
 
 /**
  * SERVERS
  */
 const SERVERS = {
+  "GET /api/exams": `/api/exams`,
   "GET /api/notes": `/api/notes`
 }
 
@@ -137,8 +141,8 @@ export function route<T extends keyof AllTypes>(key: T, ...params: any[]): strin
 * ```
 */
 export type KIT_ROUTES = {
-  PAGES: { '/': never, '/[slug]': 'slug', '/about': never }
-  SERVERS: { 'GET /api/notes': never }
+  PAGES: { '/': never, '/about': never, '/exam/[slug]': 'slug', '/note/[slug]': 'slug' }
+  SERVERS: { 'GET /api/exams': never, 'GET /api/notes': never }
   ACTIONS: Record<string, never>
   LINKS: { 'developer': never }
   Params: { slug: never }
