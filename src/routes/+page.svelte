@@ -7,15 +7,13 @@
 	export let data: PageData;
 
 	const transformedData = groupByModule(data.exams);
+
 	let showAllNotes = false;
-	let showAllExams = false;
 	const visibleCount = 5;
 
 	const showReadMore = (dataArr: Note[] | ExamDetails[]) => dataArr.length > visibleCount;
 
 	const toggleShowAllNotes = () => (showAllNotes = !showAllNotes);
-
-	const toggleShowAllExams = () => (showAllExams = !showAllExams);
 </script>
 
 <main class="container mx-auto mt-8">
@@ -52,6 +50,7 @@
 						</li>
 					{/each}
 				</ul>
+
 				{#if showReadMore(data.notes) && !showAllNotes}
 					<button
 						class="btn btn-sm hover:variant-ghost-primary text-primary-500 mt-2"
@@ -61,12 +60,12 @@
 			</div>
 
 			<div class="bg-surface-100 px-4 py-4 rounded">
-				<h3 class="h3 text-secondary-700 mb-2">Exams</h3>
+				<h3 class="h3 text-secondary-700 mb-2">Exam Reviewer</h3>
 				{#each transformedData as exams}
 					<div class="my-4">
 						<h5 class="h5 text-tertiary-600">{exams.module}</h5>
 						<ul class="list list-inside">
-							{#each showAllExams ? exams.details : exams.details.slice(0, visibleCount) as exam}
+							{#each exams.details as exam}
 								<li>
 									<a href={route('/exam/[slug]', { slug: exam.slug })} class="anchor"
 										>{exam.subject}</a
@@ -74,13 +73,6 @@
 								</li>
 							{/each}
 						</ul>
-
-						{#if showReadMore(exams.details) && !showAllExams}
-							<button
-								class="btn btn-sm hover:variant-ghost-primary text-primary-500 mt-2"
-								on:click={toggleShowAllExams}>Show all items</button
-							>
-						{/if}
 					</div>
 				{/each}
 			</div>

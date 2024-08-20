@@ -27,9 +27,13 @@ date: 8-19-2024
    d. Logistic Supervision
 
 3. It is the process of deciding how to procure, maintain and transport materiel.
+
    a. Management
+
    b. Logistics
+
    **_c. Logistic Management_**
+
    d. Logistic Supervision
 
 4. Also known as the Philippine Government Procurement Act (GPRA)
