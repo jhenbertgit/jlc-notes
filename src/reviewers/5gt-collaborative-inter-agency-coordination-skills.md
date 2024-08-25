@@ -113,6 +113,7 @@ date: 8-22-2024
    D. Pre-Tactical Clearance E. Pre-lab test
 
 9. \_\_\_\_ is the process of dealing with or controlling material things or people in a department organization.
+
    **_A. Management_**
 
    B. Organization
@@ -221,7 +222,7 @@ date: 8-22-2024
 
     C. Defense
 
-    \*\*\_D. Public Safety Management\_\_
+    **_D. Public Safety Management_**
 
     E. National Security
 

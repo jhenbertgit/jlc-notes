@@ -15,20 +15,20 @@ type Note = {
 	slug: string;
 };
 
-type Exam = {
+type Reviewer = {
 	module: string;
 	subject: string;
 	date: string;
 	slug: string;
 };
 
-type ExamDetails = {
+type ReviewerDetails = {
 	subject: string;
 	date: string;
 	slug: string;
 };
 
-type ExamMod = {
+type ReviewerMod = {
 	module: string;
-	details: ExamDetails[];
+	details: ReviewerDetails[];
 };

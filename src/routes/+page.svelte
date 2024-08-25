@@ -6,12 +6,12 @@
 
 	export let data: PageData;
 
-	const transformedData = groupByModule(data.exams);
+	const transformedData = groupByModule(data.reviewers);
 
 	let showAllNotes = false;
 	const visibleCount = 5;
 
-	const showReadMore = (dataArr: Note[] | ExamDetails[]) => dataArr.length > visibleCount;
+	const showReadMore = (dataArr: Note[]) => dataArr.length > visibleCount;
 
 	const toggleShowAllNotes = () => (showAllNotes = !showAllNotes);
 </script>
@@ -19,7 +19,11 @@
 <main class="container mx-auto mt-8">
 	<div class="flex flex-wrap justify-between min-h-screen">
 		<div class="w-full md:w-8/12 px-4 mb-8">
-			<img src={img} alt="hero-img" class="w-full h-[350px] object-cover rounded border-2" />
+			<img
+				src={img}
+				alt="hero-img"
+				class="w-full h-[350px] object-cover rounded border-2 hidden md:block"
+			/>
 			<h2 class="h2 text-tertiary-500 mt-4 mb-2">PSJLC Batch 2024-01 Personal Notes</h2>
 			<h5 class="h5">⚠️Disclaimer:</h5>
 			<p class=" text-justify mb-4">
@@ -59,23 +63,23 @@
 				{/if}
 			</div>
 
-			<div class="bg-surface-100 px-4 py-4 rounded">
-				<h3 class="h3 text-secondary-700 mb-2">Exam Reviewer</h3>
-				{#each transformedData as exams}
+			<!-- <div class="bg-surface-100 px-4 py-4 rounded">
+				<h3 class="h3 text-secondary-700 mb-2">Reviewer</h3>
+				{#each transformedData as reviewers}
 					<div class="my-4">
-						<h5 class="h5 text-tertiary-600">{exams.module}</h5>
+						<h5 class="h5 text-tertiary-600">{reviewers.module}</h5>
 						<ul class="list list-inside">
-							{#each exams.details as exam}
+							{#each reviewers.details as reviewer}
 								<li>
-									<a href={route('/exam/[slug]', { slug: exam.slug })} class="anchor"
-										>{exam.subject}</a
+									<a href={route('/reviewer/[slug]', { slug: reviewer.slug })} class="anchor"
+										>{reviewer.subject}</a
 									>
 								</li>
 							{/each}
 						</ul>
 					</div>
 				{/each}
-			</div>
+			</div> -->
 		</div>
 	</div>
 </main>

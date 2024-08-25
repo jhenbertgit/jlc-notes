@@ -1,9 +1,9 @@
 // place files you want to import through the `$lib` alias in this folder.
 
-export const groupByModule = (data: Exam[]) => {
-	return data.reduce((accumulator: ExamMod[], item) => {
+export const groupByModule = (data: Reviewer[]) => {
+	return data.reduce((accumulator: ReviewerMod[], item) => {
 		// Find if the module already exists in the accumulator
-		const existingModule: ExamMod | undefined = accumulator.find(
+		const existingModule: ReviewerMod | undefined = accumulator.find(
 			(module) => module.module === item.module
 		);
 
