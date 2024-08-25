@@ -3,8 +3,11 @@
 	import '../app.postcss';
 </script>
 
-<ArrowUp />
+<svelte:head>
+	<title>My Personal Notes - NHQ-NSU PTC PSJLC Batch 2024-01 CL Juliet</title>
+</svelte:head>
 
+<ArrowUp />
 <MainNav />
 <slot />
 <Footer />
