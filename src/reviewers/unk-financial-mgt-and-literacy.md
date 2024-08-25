@@ -1,7 +1,7 @@
 ---
 module: unk
 subject: Financial Management and Literacy
-date: 8-22-2024
+date: 8-27-2024
 ---
 
 # Financial Management and Literacy

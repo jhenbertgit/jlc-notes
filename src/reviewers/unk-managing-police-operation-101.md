@@ -1,7 +1,7 @@
 ---
 module: unk
 subject: Managing Police Operations 101
-date: 8-22-2024
+date: 8-27-2024
 ---
 
 # Managing Police Operations 101

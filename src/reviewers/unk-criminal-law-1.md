@@ -1,7 +1,7 @@
 ---
 module: unk
 subject: Criminal Law 1
-date: 8-22-2024
+date: 8-27-2024
 ---
 
 # Criminal Law 1

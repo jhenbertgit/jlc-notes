@@ -1,7 +1,7 @@
 ---
 module: unk
 subject: First Responder's Role
-date: 8-22-2024
+date: 8-27-2024
 ---
 
 # First Responder's Role
@@ -105,3 +105,121 @@ date: 8-22-2024
     c. Description of the escaping persons.
 
     d. Description of the get-away vehicle.
+
+11. Is the immediate help provided to a sick or injured person until professional medical help arrives and available.
+
+    A. Emergency management
+
+    **_B. Emergency first aiding_**
+
+    C. Emergency life support
+
+    D. Emergency procedure
+
+    E. None of the above
+
+12. Emergency protocol that consists of recognizing respiratory or cardiac arrest or both and the proper application of Cardio Pulmonary Resuscitation (CPR) to maintain life.
+
+    A. Apply Rescue Breathing
+
+    **_B. Providing Basic Life Support_**
+
+    C. Do not move the gasping victim until Emergency Medical Team (EMT) arrive
+
+    D. Conduct mouth-to-mouth resuscitation
+
+    E. Call the headquarters and wait for ambulance.
+
+13. A combination of chest compressions and rescue breaths in the absence of breathing and cardio function help/aid in the:
+
+    A. sustenance of blood with oxygen to the brain and other vital organs of the body.
+
+    B. increases the chances of survival for a person in cardiac arrest.
+
+    C. buy out more life time while waiting for the Emergency Medical Team (EMT)
+
+    D. enhances/boost the PNP “professionalism” and “credibility” of the PNP in protecting and saving lives.
+
+    **_E. All of the above statement_**
+
+14. In CPR, the chest compression to ventilation ratio is \_\_\_\_
+
+    A. 32 chest compression: 2 ventilations
+
+    **_B. 30 chest compression: 2 ventilations_**
+
+    C. 35 chest compression: 2 ventilations
+
+    D. 40 chest compression: 2 ventilations
+
+    E. b and d
+
+15. In simplified action principles on Adult Basic Life Support (BLS), the following steps are to be taken, EXCEPT.
+
+    A. Finding the victim unresponsive, no breathing, or no normal breathing (only gasping)
+
+    B. Activate emergency response and call for help then request for AED;
+
+    C. Start Cardio Pulmonary Resuscitation (CPR)
+
+    **_D. Push Hard-Push Fast. 5 cycles with tolerable interruptions nor pause of less than 10 seconds._**
+
+    E. Check rhythm and apply AED if indicated and repeat every 2 minutes.
+
+16. PNP First Responders Handbook purpose is to:
+
+    A. provides guidance for patrol officers and other members of the force how to respond to the scene of a disaster or other emergency;
+
+    B. gives an idea on how to assess/calculate factors before conducting any kind of police operation
+
+    C. suggest that police presence and visibility minimize criminality as part of ensuring public order and safety
+
+    D. used as a reference manual on different situational crisis/disaster management
+
+    **_E. All of the above._**
+
+17. \_\_\_\_\_\_ is an urgent, unexpected, and usually dangerous situation that poses an immediate risk to health, life, property, or environment and requires immediate action.
+
+    A. Typhoon
+
+    B. Mass demonstration
+
+    **_C. Emergencies_**
+
+    D. Accidents
+
+    E. Shooting incident
+
+18. The PNP being a professionalized agency, its members are expected not only to be knowledgeable but truly reliable, skillful to address any life threat to any person, the community, and the environment/country.
+
+    A. True, as it was embodied in the PNP Operational Plan 2021
+
+    **_B. True, as part of visions of PNP to be highly credible, capable, and effective Police Service by 2030_**
+
+    C. True, as it is mandated under the Rights of the Person to life and property
+
+    D. True, as it is required in the mandatory course for compliance purpose only
+
+19. All are type of emergency “danger” wherein involved a single person`s only, EXCEPT;
+
+    A. Heart attack
+
+    B. Gunshot wound in the chest
+
+    C. Corona virus
+
+    **_D. Cardiac arrest_**
+
+    E. Drowning case
+
+20. This type of emergencies does not immediately endanger life, health or property, but do affect the natural environment and creatures living within it.
+
+    A. Dangers to the Environment
+
+    B. Fish kills
+
+    C. Oil spills
+
+    D. Illegal logging
+
+    **_E. All of the above_**

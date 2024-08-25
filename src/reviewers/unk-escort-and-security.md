@@ -1,7 +1,7 @@
 ---
 module: unk
 subject: Escort and Security
-date: 8-22-2024
+date: 8-27-2024
 ---
 
 # Escort and Security
@@ -105,3 +105,107 @@ date: 8-22-2024
     **_C. Stay and fight_**
 
     D. Call for back up and move away from danger
+
+11. One or more persons accompanying another to guide, protect, or show honor; one or more vehicles accompanying another vehicle to guide, protect, or honor its passengers.
+
+    A. VIP
+
+    **_B. Escort_**
+
+    C. Security
+
+    D. Bodyguard
+
+    E. All of these
+
+12. This formation is to be utilized in moderate to high risk crowds and is a fairly easy formation for maintaining perimeter integrity around the client. This formation box can be used in both loose and tight protective formations and can be conducted in a covert or overt movement.
+
+    A. Diamond formation
+
+    B. Circular formation
+
+    C. Wedge formation
+
+    **_D. Box formation_**
+
+    E. B and C
+
+13. This formation can be used in both loose and tight protective formations and can be conducted in a covert or overt movement.
+
+    **_A. Diamond formation_**
+
+    B. Circular formation
+
+    C. Wedge formation
+
+    D. Box formation
+
+    E. ALL of these
+
+14. He guides the protective team, blocks and heads-off potential threats from the front of the protective formation.
+
+    **_A. Point Bodyguard_**
+
+    B. Flank Bodyguard
+
+    C.Rear Bodyguard
+
+    D.Detail Leader
+
+    E. All of these
+
+15. He blocks and heads-off potential threats from the sides of the protective formation.
+
+    A. Point Bodyguard
+
+    **_B. Flank Bodyguard_**
+
+    C. Rear Bodyguard
+
+    D. Detail Leader
+
+    E. None of these
+
+16. He blocks and heads-off potential threats from the back of the protective formation.
+
+    A. Point Bodyguard
+
+    B. Flank Bodyguard
+
+    **_C. Rear Bodyguard_**
+
+    D. Detail Leader
+
+    E. Back Bodyguard
+
+17. He or she is responsible for immediately shielding and removing the principal in the event of an attack.
+
+    A. Point Bodyguard
+
+    B. Flank Bodyguard
+
+    C. Rear Bodyguard
+
+    **_D. Detail Leader_**
+
+    E. Back Bodyguard
+
+18. This formation is the most difficult in maintaining perimeter integrity around the client and is mostly utilized in moving the client through heavy low-risk crowds. This formation should only be used in a tight protective formation and is normally conducted in an overt movement.
+
+    A. Diamond formation
+
+    B. Circular formation
+
+    **_C. Wedge formation_**
+
+    D. Box formation
+
+    E. All of these
+
+19. Identify the correct locations of the close-in bodyguard.
+
+    **_A._**
+
+20. Identify the correct locations of the close-in bodyguard.
+
+    **_B._**
