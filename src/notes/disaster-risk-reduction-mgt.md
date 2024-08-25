@@ -239,3 +239,47 @@ National Disaster Coordinating Council - October 10, 1970 -- under DND
 
   - search and rescue
   - evacuation and sheltering
+  - medical assistance
+
+  **Phases of Disasters Response**
+
+  - Pre-disaster Phase -- period before disaster
+  - Emergency Response Phase -- search and rescue
+  - Recovery Phase -- restore normalcy, reconstruction
+
+  **Best Practice in Disaster Response**
+
+  - Strong coordination among stakeholders
+  - Prepositioning of relief supplies
+  - Capacity building and training
+
+- **Rehabilitation (recovery)**
+
+  - longest and most difficult stage of the framework
+  - process of restoring the normalcy in society
+
+  **Phases of Rehabilitation/Recovery**
+
+  - Short-term recovery
+  - Medium-term recovery
+  - Long-term recovery
+
+  **Strategies for Rehabilitation/Recovery**
+
+  - Economic Recovery - focused livelihood, job opportunity
+  - Physical Infrastructure Recovery - involves extensive planning
+  - Social Infrastructure Recovery - rebuild religious infrastructure, churches
+
+  **Best Practices for Rehabilitation/Recovery**
+
+  - Build-back-better program -- ensure building resilient for future disaster
+  - Collaboration and Community -- involves NGO, affected community
+  - Comprehensive Planning
+
+## Sendai Framework
+
+- global agreement that aims to reduce disaster risk and promote disaster resilience
+
+  **Key Element**
+
+  - strengthening

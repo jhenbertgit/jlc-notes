@@ -1,8 +1,9 @@
 <script lang="ts">
+	import { page } from '$app/stores';
 	import { route } from '$lib/ROUTES';
 	import { groupByModule } from '$lib';
-	import type { PageData } from './$types';
 	import img from '$lib/image/jlc-note.png';
+	import type { PageData } from './$types';
 
 	export let data: PageData;
 
@@ -14,6 +15,14 @@
 	const showReadMore = (dataArr: Note[]) => dataArr.length > visibleCount;
 
 	const toggleShowAllNotes = () => (showAllNotes = !showAllNotes);
+
+	let paramValue: string | null;
+
+	$: {
+		const url = new URL($page.url);
+		const searchParams = new URLSearchParams(url.search);
+		paramValue = searchParams.get('showme');
+	}
 </script>
 
 <main class="container mx-auto mt-8">
@@ -24,7 +33,7 @@
 				alt="hero-img"
 				class="w-full h-[350px] object-cover rounded border-2 hidden md:block"
 			/>
-			<h2 class="h2 text-tertiary-500 mt-4 mb-2">PSJLC Batch 2024-01 Personal Notes</h2>
+			<h2 class="h2 text-tertiary-500 mt-4 mb-2">My Personal Notes</h2>
 			<h5 class="h5">⚠️Disclaimer:</h5>
 			<p class=" text-justify mb-4">
 				These notes are intended solely for personal use and reference. They represent personal
@@ -63,23 +72,25 @@
 				{/if}
 			</div>
 
-			<!-- <div class="bg-surface-100 px-4 py-4 rounded">
-				<h3 class="h3 text-secondary-700 mb-2">Reviewer</h3>
-				{#each transformedData as reviewers}
-					<div class="my-4">
-						<h5 class="h5 text-tertiary-600">{reviewers.module}</h5>
-						<ul class="list list-inside">
-							{#each reviewers.details as reviewer}
-								<li>
-									<a href={route('/reviewer/[slug]', { slug: reviewer.slug })} class="anchor"
-										>{reviewer.subject}</a
-									>
-								</li>
-							{/each}
-						</ul>
-					</div>
-				{/each}
-			</div> -->
+			{#if paramValue == 'iseethelight'}
+				<div class="bg-surface-100 px-4 py-4 rounded">
+					<h3 class="h3 text-secondary-700 mb-2">Reviewer</h3>
+					{#each transformedData as reviewers}
+						<div class="my-4">
+							<h5 class="h5 text-tertiary-600">{reviewers.module}</h5>
+							<ul class="list list-inside">
+								{#each reviewers.details as reviewer}
+									<li>
+										<a href={route('/reviewer/[slug]', { slug: reviewer.slug })} class="anchor"
+											>{reviewer.subject}</a
+										>
+									</li>
+								{/each}
+							</ul>
+						</div>
+					{/each}
+				</div>
+			{/if}
 		</div>
 	</div>
 </main>

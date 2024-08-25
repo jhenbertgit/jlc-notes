@@ -3,7 +3,7 @@ import type { PageLoad } from './$types';
 
 export const load = (async ({ params }) => {
 	try {
-		const exam = await import(`../../../exams/${params.slug}.md`);
+		const exam = await import(`../../../reviewers/${params.slug}.md`);
 
 		return {
 			content: exam.default,
