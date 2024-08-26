@@ -21,7 +21,7 @@
 	$: {
 		const url = new URL($page.url);
 		const searchParams = new URLSearchParams(url.search);
-		paramValue = searchParams.get('showme');
+		paramValue = searchParams.get('juliet');
 	}
 </script>
 
@@ -72,7 +72,7 @@
 				{/if}
 			</div>
 
-			{#if paramValue == 'iseethelight'}
+			{#if paramValue === 'meowmeowmeow'}
 				<div class="bg-surface-100 px-4 py-4 rounded">
 					<h3 class="h3 text-secondary-700 mb-2">Reviewer</h3>
 					{#each transformedData as reviewers}

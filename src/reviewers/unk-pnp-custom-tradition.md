@@ -66,7 +66,9 @@ date: 8-27-2024
 
    e. 23
 
-6. For ceremonial purposes, he is treated as if he were the state itself. a. King
+6. For ceremonial purposes, he is treated as if he were the state itself.
+
+   a. King
 
    b. Prime Minister
 

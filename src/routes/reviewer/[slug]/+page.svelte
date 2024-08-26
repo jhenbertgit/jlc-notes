@@ -16,7 +16,7 @@
 	<div class="max-w-3xl mx-auto min-h-screen">
 		<!--breadcrumb-->
 		<ol class="breadcrumb py-4">
-			<li class="crumb"><a class="anchor" href={route('/') + '?showme=iseethelight'}>Home</a></li>
+			<li class="crumb"><a class="anchor" href={route('/') + '?juliet=meowmeowmeow'}>Home</a></li>
 		</ol>
 
 		<!-- header -->
