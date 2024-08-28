@@ -15,10 +15,9 @@ const getReviewers = async () => {
 			reviewers.push(reviewer);
 		}
 	}
-
-	// sort from oldest to newest
+	// sort from newest to oldest
 	reviewers = reviewers.sort(
-		(first, second) => new Date(first.date).getTime() - new Date(second.date).getTime()
+		(first, second) => new Date(second.date).getTime() - new Date(first.date).getTime()
 	);
 
 	return reviewers;

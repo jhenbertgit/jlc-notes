@@ -1,5 +1,5 @@
 ---
-module: unk
+module: 6th Modular
 subject: Disaster Risk Reduction Management
 date: 8-27-2024
 ---

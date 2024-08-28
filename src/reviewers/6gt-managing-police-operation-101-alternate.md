@@ -1,5 +1,5 @@
 ---
-module: unk
+module: 6th Modular
 subject: Managing Police Operations 101 - Alternate
 date: 8-27-2024
 ---

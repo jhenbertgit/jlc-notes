@@ -1,5 +1,5 @@
 ---
-module: unk
+module: 6th Modular
 subject: Power and Leadership
 date: 8-27-2024
 ---

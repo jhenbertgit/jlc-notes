@@ -1,5 +1,5 @@
 ---
-module: unk
+module: 6th Modular
 subject: Criminal Law 1
 date: 8-27-2024
 ---

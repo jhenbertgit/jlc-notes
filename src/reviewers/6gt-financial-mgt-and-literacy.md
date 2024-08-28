@@ -1,5 +1,5 @@
 ---
-module: unk
+module: 6th Modular
 subject: Financial Management and Literacy
 date: 8-27-2024
 ---
