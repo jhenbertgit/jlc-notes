@@ -4,7 +4,7 @@ professor: Dr. Paulino Ayang-ayang
 date: 4-17-2024
 ---
 
-# The Leaders Role in Resolving Conflict and Negotiating Styles
+# {subject}
 
 **Conflict** - may occur between people or within groups in all kinds of situations.
 

@@ -4,7 +4,7 @@ professor: Prof. Pacifico Talplacido
 date: 4-8-2024
 ---
 
-# Ethical Leadership
+# {subject}
 
 **Ethical Leadership** - style of leadership that priorities moral values, principles, and integrity in decision-making actions.
 

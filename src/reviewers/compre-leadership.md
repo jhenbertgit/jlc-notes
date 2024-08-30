@@ -1,10 +1,10 @@
 ---
 module: Comprehensive Exam
-subject: Leadership
+subject: Leadership (18-55)
 date: 8-29-2024
 ---
 
-# Leadership (18-55)
+# {subject}
 
 18. Management is getting things done from people. An efficient work environment helps in sound and stable growth.
 

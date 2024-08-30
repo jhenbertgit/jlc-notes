@@ -1,10 +1,10 @@
 ---
 module: Comprehensive Exam
-subject: Police Administration
+subject: Police Administration (9-17)
 date: 8-29-2024
 ---
 
-# Police Administration (9-17)
+# {subject}
 
 9. Is a holistic approach that aims to improve individual, group and organizational effectiveness through the integration of training of training and development, etc.
 

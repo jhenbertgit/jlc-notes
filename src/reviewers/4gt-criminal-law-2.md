@@ -4,7 +4,7 @@ subject: Criminal Law II
 date: 8-19-2024
 ---
 
-# Criminal Law II
+# {subject}
 
 1. In the crime of Delay in the Delivery of Detained Persons to the Proper Judicial Authorities, within what period of time should the public officer or employee deliver a person to the proper judicial authorities if the crime or offense committed by the said person is punishable by correctional penalty?
 

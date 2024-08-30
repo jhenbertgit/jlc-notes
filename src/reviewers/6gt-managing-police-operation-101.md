@@ -4,7 +4,7 @@ subject: Managing Police Operations 101
 date: 8-27-2024
 ---
 
-# Managing Police Operations 101
+# {subject}
 
 1. Despite the success of the anti illegal drugs program, double barrel and double barrel alpha, the PNP was still criticized because of issues of incompetence, corruption and
 

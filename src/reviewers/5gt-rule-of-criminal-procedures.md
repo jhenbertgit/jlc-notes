@@ -4,7 +4,7 @@ subject: Rule of Criminal Procedures
 date: 8-22-2024
 ---
 
-# Rule of Criminal Procedures
+# {subject}
 
 1. Upon application, a search warrant was issued for the search and seizure of illegal drugs and paraphernalia from the house located at #123 Maria Clara Street, Calamba City. However about 5 houses inside a large compound all used the #123. May the team search all houses with number 123?
 

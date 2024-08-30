@@ -4,7 +4,7 @@ subject: Counter Intelligence
 date: 8-19-2024
 ---
 
-# Counter Intelligence
+# {subject}
 
 1. Which of the following pertains to an end product or useful data (intelligence) resulting from the collection, evaluation, analysis, integration, and the interpretation of all gathered available information being used in the formulation of police plans, programs, policies, among others?
 

@@ -4,7 +4,7 @@ subject: Leadership Action
 date: 8-27-2024
 ---
 
-# Leadership Action
+# {subject}
 
 1. The first and essential action what a leader does to develop his/her subordinate.
 

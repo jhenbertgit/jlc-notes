@@ -4,7 +4,7 @@ subject: Intro to Cybercrime
 date: 8-22-2024
 ---
 
-# Intro to Cybercrime
+# {subject}
 
 1. Forms of electronic communication (such as Web sites) through which people create online communities to share information, ideas, personal messages, etc.
 

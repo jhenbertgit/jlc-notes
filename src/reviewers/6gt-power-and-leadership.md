@@ -4,7 +4,7 @@ subject: Power and Leadership
 date: 8-27-2024
 ---
 
-# Power and Leadership
+# {subject}
 
 1. This refers to the power where subordinates admire and respect leaders because of good traits and characteristics of a leader.
 

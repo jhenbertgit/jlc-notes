@@ -4,7 +4,7 @@ subject: PNP Custom and Tradition
 date: 8-27-2024
 ---
 
-# PNP Custom and Tradition
+# {subject}
 
 1. A guest who has just arrived is introduced to another who is just leaving.
 

@@ -4,7 +4,7 @@ subject: Special Laws
 date: 8-19-2024
 ---
 
-# Special Laws
+# {subject}
 
 1. In the absence of a Family Court, which of the following has jurisdiction in hearing cases involving women and children?
 
@@ -326,7 +326,7 @@ date: 8-19-2024
 
 28. Jessy is married to Luis with six children. Not being attracted to Jessy anymore, Luis would look for younger girls for sex, even including prostitutes. Every time Jessy would initiate to have sex with him, Luis would refuse her saying that she is no longer attractive. Jessy would feel humiliated and insulted. The situation obtaining in the instant case is actionable under R.A. 9262 (Violation Against Women and Children) because:
 
-    - a. it constitutes substantial emotional or psychological distress to a woman.
+    a. it constitutes substantial emotional or psychological distress to a woman.
 
     b. it amounts to humiliation that can cause mental or emotional distress to a woman.
 

@@ -1,10 +1,10 @@
 ---
 module: Comprehensive Exam
-subject: Law Subjects
+subject: Law Subjects (56-82)
 date: 8-29-2024
 ---
 
-# Law Subjects (56-82)
+# {subject}
 
 56. It is considered as relative divorce because it does not affect the marital status, there being no severance of the marriage tie.
 

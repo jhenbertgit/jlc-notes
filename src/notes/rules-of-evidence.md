@@ -4,7 +4,7 @@ professor: Atty. Nikki C. Dorado-Chavez
 date: 4-25-2024
 ---
 
-# Rules of Evidence
+# {subject}
 
 Importance of study of Rules of Evidence in law enforcement - support the conviction of a suspect
 

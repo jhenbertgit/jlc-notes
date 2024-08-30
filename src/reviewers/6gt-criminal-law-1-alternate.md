@@ -4,7 +4,7 @@ subject: Criminal Law 1 - Alternate
 date: 8-27-2024
 ---
 
-# Criminal Law 1
+# {subject}
 
 1. All criminal laws should be applied prospectively.
 

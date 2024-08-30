@@ -4,7 +4,7 @@ subject: Disaster Risk Reduction Management
 date: 8-27-2024
 ---
 
-# Disaster Risk Reduction Management
+# {subject}
 
 1. Dr. Renan Blaze a renounced environmentalist is thinking of a combination of all strengths and resources available within a community society or organization that can reduce the of risk or effects of disaster in their area of concern is called;
 

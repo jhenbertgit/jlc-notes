@@ -4,7 +4,7 @@ subject: Incident Command System
 date: 8-19-2024
 ---
 
-# Incident Command System
+# {subject}
 
 A phenomenon that poses threat to the people, structure or economic assets and which may cause a disaster. It could be natural or human-induced.
 

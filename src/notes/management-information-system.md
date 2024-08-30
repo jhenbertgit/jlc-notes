@@ -4,7 +4,7 @@ professor: Dr. Renelina D. Mañago
 date: 4-20-2024
 ---
 
-# Management Information System
+# {subject}
 
 - automation of manual task in a organization
 

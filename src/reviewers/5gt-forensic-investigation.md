@@ -4,7 +4,7 @@ subject: Forensic Investigation
 date: 8-22-2024
 ---
 
-# Forensic Investigation
+# {subject}
 
 1. A Y-shaped ridge meeting in a fingerprint is referred as
 

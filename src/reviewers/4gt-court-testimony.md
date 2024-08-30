@@ -4,7 +4,7 @@ subject: Court Testimony (Moot Court)
 date: 8-19-2024
 ---
 
-# Court Testimony (Moot Court)
+# {subject}
 
 1. The appearance of credibility or non-credibility that the witness has during testimony and examination at trial or hearing.
 

@@ -4,7 +4,7 @@ professor: PCOL VIRGILIO BOADO (Ret.)
 date: 4-26-2024
 ---
 
-# Responsibilities and Role of a Leader / Leadership Categories and Styles
+# {subject}
 
 Leadership -
 

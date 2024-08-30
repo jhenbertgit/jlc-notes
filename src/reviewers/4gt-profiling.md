@@ -4,7 +4,7 @@ subject: Profiling
 date: 8-19-2024
 ---
 
-# Profiling
+# {subject}
 
 1. Which of the following pertains to the study of humans and human behavior and societies in the past and present?
 

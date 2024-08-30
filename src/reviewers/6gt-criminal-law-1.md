@@ -4,7 +4,7 @@ subject: Criminal Law 1
 date: 8-27-2024
 ---
 
-# Criminal Law 1
+# {subject}
 
 1. The Revised Penal Code is also known as:
 

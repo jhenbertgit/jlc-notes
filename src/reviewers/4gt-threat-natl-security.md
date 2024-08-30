@@ -4,7 +4,7 @@ subject: Threats To National Security Group (Local and International)
 date: 8-19-2024
 ---
 
-# Threats To National Security Group (Local and International)
+# {subject}
 
 1. Which of the following refers to a profit motivated and highly capable group of persons, or an enterprise organized to undertake widespread, regular long term, large scale, high profile and diversified criminal activities that has high impact to the economy and national security?
 

@@ -4,7 +4,7 @@ professor: Atty. Jams Gidocus
 date: 4-17-2024
 ---
 
-# Special Laws
+# {subject}
 
 ## Topics
 

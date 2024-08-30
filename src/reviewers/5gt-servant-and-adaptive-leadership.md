@@ -4,7 +4,7 @@ subject: Servant and Adaptive Leadership
 date: 8-22-2024
 ---
 
-# Servant and Adaptive Leadership
+# {subject}
 
 1. The principle of servant leadership that gives cue for servant leaders opinions and decisions is called
 

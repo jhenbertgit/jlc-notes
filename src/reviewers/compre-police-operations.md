@@ -1,10 +1,10 @@
 ---
 module: Comprehensive Exam
-subject: Police Operations
+subject: Police Operations (83-150)
 date: 8-29-2024
 ---
 
-# Police Operations (83-150)
+# {subject}
 
 83. Which of the following pertains to a product resulting from the collection, evaluation, analysis, integration, and the interpretation of all available information which concerns one or more aspects of criminal activity significant to “police planning and operations”?
 

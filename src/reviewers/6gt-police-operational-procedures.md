@@ -4,7 +4,7 @@ subject: Police Operational Procedures
 date: 8-27-2024
 ---
 
-# Police Operational Procedures
+# {subject}
 
 1. A Police officer who fires his service firearms during an armed confrontation with criminal offenders are required to submit what type of report which outlines the circumstances necessitating the use of such firearms?
 

@@ -4,7 +4,7 @@ professor: Dean Gestoni C Rectin
 date: 4-11-2024
 ---
 
-# Human Resource Management
+# {subject}
 
 ## Five Pillars of Justice System
 

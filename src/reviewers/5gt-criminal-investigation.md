@@ -4,7 +4,7 @@ subject: Criminal Investigation
 date: 8-22-2024
 ---
 
-# Criminal Investigation
+# {subject}
 
 1. Which of the following refers to the process of discovering, identifying, collecting, preparing, preserving, and presenting evidence to prove the truth and falsity of the issue in law.
 

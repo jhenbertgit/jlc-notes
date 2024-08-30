@@ -1,10 +1,10 @@
 ---
 module: Comprehensive Exam
-subject: General Subjects
+subject: General Subjects (1-8)
 date: 8-29-2024
 ---
 
-# General Subjects (1-8)
+# {subject}
 
 1. This refers to the entry, free of customs, duty and other taxes of goods, which would normally subject to taxation.
 

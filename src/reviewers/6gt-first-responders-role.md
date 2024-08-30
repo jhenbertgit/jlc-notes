@@ -4,7 +4,7 @@ subject: First Responder's Role
 date: 8-27-2024
 ---
 
-# First Responder's Role
+# {subject}
 
 1. First responders’ most important equipment to be carried inside the patrol vehicle when responding to reported vehicular accident with visible smoke coming from engine compartment.
 

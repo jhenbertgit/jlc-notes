@@ -4,7 +4,7 @@ subject: Peace Promoting Approach to Peace Building
 date: 8-19-2024
 ---
 
-# Peace Promoting Approach to Peace building
+# {subject}
 
 1. Which of the following pertains to a process where both the parties are brought to a mutually beneficial compromise and limiting the negative aspect of the conflict while increasing the positive aspects of conflict?
 

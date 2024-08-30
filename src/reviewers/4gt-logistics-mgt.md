@@ -4,7 +4,7 @@ subject: Logistics Management
 date: 8-19-2024
 ---
 
-# Logistics Management
+# {subject}
 
 1. It is the aspect of military science dealing with procurement, maintenance and transportation of military materiel, facility, and personnel.
 

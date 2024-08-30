@@ -4,7 +4,7 @@ professor: Prof. Mark C. Yalo
 date: 4-27-2024
 ---
 
-# Disaster Risk Reduction Management
+# {subject}
 
 ## Basic Concept
 

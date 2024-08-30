@@ -4,7 +4,7 @@ subject: Crime Scene Investigation
 date: 8-22-2024
 ---
 
-# Crime Scene Investigation
+# {subject}
 
 1. Which of the following refers to a comprehensive inquiry of a crime by conducting systematic procedure of various investigative methodologies which involves recovery of physical and testimonial evidence for the purpose of identifying the witnesses, and arrest of perpetrator(s) for prosecution?
 

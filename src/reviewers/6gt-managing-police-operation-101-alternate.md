@@ -4,7 +4,7 @@ subject: Managing Police Operations 101 - Alternate
 date: 8-27-2024
 ---
 
-# Managing Police Operations 101
+# {subject}
 
 1. The anticipation, recognition and appraisal of crime risks and the initiation of appropriate actions that will prevent or reduce such risks:
 

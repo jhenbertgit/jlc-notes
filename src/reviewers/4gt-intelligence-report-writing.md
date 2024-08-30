@@ -4,7 +4,7 @@ subject: Intelligence Report Writing
 date: 8-19-2024
 ---
 
-# Intelligence Report Writing
+# {subject}
 
 1. What type of writing that pertains to the systematic report writing where the different intelligence information gathered by the intelligence agents are made into reports for the use of intelligence analysts, superior officers, decision makers, and authorized users?
 

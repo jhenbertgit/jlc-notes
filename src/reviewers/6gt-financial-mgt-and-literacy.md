@@ -4,7 +4,7 @@ subject: Financial Management and Literacy
 date: 8-27-2024
 ---
 
-# Financial Management and Literacy
+# {subject}
 
 1. It is the art of getting things done through and with people in formally organized groups.
 

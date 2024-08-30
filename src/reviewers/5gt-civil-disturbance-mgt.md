@@ -4,7 +4,7 @@ subject: Civil Disturbance Management
 date: 8-22-2024
 ---
 
-# Civil Disturbance Management
+# {subject}
 
 1. In which order should the formation of the CDM contingent be?
 

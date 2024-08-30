@@ -4,7 +4,7 @@ subject: Intelligence Cycle
 date: 8-19-2024
 ---
 
-# Intelligence Cycle
+# {subject}
 
 1. Which of the following refers to the concise written statement of the directives broken down into objectives and further classified into pertinent targets as a result of the analysis in relation with own capabilities and operational conditions?
 

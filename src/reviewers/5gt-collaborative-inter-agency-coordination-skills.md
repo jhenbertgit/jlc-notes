@@ -4,7 +4,7 @@ subject: Collaborative Inter-Agency Coordination Skills
 date: 8-22-2024
 ---
 
-# Collaborative Inter-Agency Coordination Skills
+# {subject}
 
 1. Four (4)-step Approach in Inter-Agency Coordination to Design and Deliver Coordinated Services:
 
