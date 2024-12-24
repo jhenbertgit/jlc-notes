@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { route } from '$lib/ROUTES';
+	import { onDestroy } from 'svelte';
 	import type { PageData } from './$types';
 	import dateFormatter from '@jhenbert/date-formatter';
 
@@ -10,7 +11,17 @@
 		{ year: 'numeric', month: 'long', day: 'numeric' },
 		new Date(data.meta.date)
 	);
+
+	const resetTitle = () => {
+		document.title = 'My Personal Notes - NHQ-NSU PTC PSJLC Batch 2024-01 CL Juliet';
+	};
+
+	onDestroy(resetTitle);
 </script>
+
+<svelte:head>
+	<title>My Personal Notes - {data.meta.subject}</title>
+</svelte:head>
 
 <div class="max-w-7xl mx-auto px-4 mb-8 sm:px-6 lg:px-8">
 	<div class="max-w-3xl mx-auto min-h-screen">
